@@ -1,0 +1,6 @@
+Nota;0;33;66;100
+Legibilidad y estructura del código;Código desordenado;Código con formato básico;Código con indentación correcta;Código claro y con comentarios;Código limpio, documentado y bien estructurado
+Ejecución y control de errores;No ejecuta o falla;Compila con fallos leves;Ejecuta correctamente;Ejecuta y controla algunos errores;Ejecución perfecta y robusta
+Interacción con el usuario;No hay interacción;Interacción básica por consola;Solicita y muestra datos correctamente;Interacción validada;Interfaz fluida y completa
+Uso de funciones;No usa funciones;Declara funciones simples;Usa varias funciones;Organiza funciones con parámetros;Funciones bien estructuradas y reutilizables
+Manejo de estructuras de datos;No usa estructuras;Usa arrays básicos;Realiza operaciones simples;Manipula datos con eficiencia;Usa estructuras complejas de forma óptima
