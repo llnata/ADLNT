@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ausencias>
+                    
+    
+    
+    
+    <ausencia>
+                                        
+        
+        
+        
+        <timestamp>2025-10-24 08:00</timestamp>
+                                        
+        
+        
+        
+        <asignatura>Matemáticas</asignatura>
+                                        
+        
+        
+        
+        <alumno>Mario López</alumno>
+                                        
+        
+        
+        
+        <justificada>false</justificada>
+                                        
+        
+        
+        
+        <tipo>Falta completa</tipo>
+                                        
+        
+        
+        
+        <curso>2ESO</curso>
+                                    
+    
+    
+    
+    </ausencia>
+                    
+    
+    
+    
+    <ausencia>
+                                        
+        
+        
+        
+        <timestamp>2025-10-24 09:00</timestamp>
+                                        
+        
+        
+        
+        <asignatura>Lengua</asignatura>
+                                        
+        
+        
+        
+        <alumno>Juan Pérez</alumno>
+                                        
+        
+        
+        
+        <justificada>true</justificada>
+                                        
+        
+        
+        
+        <tipo>Médico</tipo>
+                                        
+        
+        
+        
+        <curso>2ESO</curso>
+                                    
+    
+    
+    
+    </ausencia>
+                
+    
+    
+    
+    <ausencia>
+                                
+        
+        
+        <timestamp>2025-10-24 08:00</timestamp>
+                                
+        
+        
+        <asignatura>Matemáticas</asignatura>
+                                
+        
+        
+        <alumno>Mario López</alumno>
+                                
+        
+        
+        <justificada>false</justificada>
+                                
+        
+        
+        <tipo>Falta completa</tipo>
+                                
+        
+        
+        <curso>2ESO</curso>
+                            
+    
+    
+    </ausencia>
+            
+    
+    
+    <ausencia>
+                        
+        
+        <timestamp>2025-10-24 08:00</timestamp>
+                        
+        
+        <asignatura>Base de datos</asignatura>
+                        
+        
+        <alumno>Mario López</alumno>
+                        
+        
+        <justificada>false</justificada>
+                        
+        
+        <tipo>Falta completa</tipo>
+                        
+        
+        <curso>1DAM</curso>
+                    
+    
+    </ausencia>
+        
+    
+    <ausencia>
+                
+        <timestamp>2010-33-44</timestamp>
+                
+        <asignatura>Base de datos</asignatura>
+                
+        <alumno>Juan</alumno>
+                
+        <justificada>true</justificada>
+                
+        <tipo>medica</tipo>
+                
+        <curso>1DAMN</curso>
+            
+    </ausencia>
+    
+    <ausencia>
+        <timestamp>2010-22-22</timestamp>
+        <asignatura>wef</asignatura>
+        <alumno>lkfddf</alumno>
+        <justificada>false</justificada>
+        <tipo>medica</tipo>
+        <curso>wedf</curso>
+    </ausencia>
+</ausencias>

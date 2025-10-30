@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<asignaturas>
+                
+    
+    
+    <asignatura>
+                                
+        
+        
+        <nombre>Matemáticas</nombre>
+                                
+        
+        
+        <curso>2ESO</curso>
+                                
+        
+        
+        <horas>5</horas>
+                                
+        
+        
+        <profesor>Sr. Gómez</profesor>
+                            
+    
+    
+    </asignatura>
+                
+    
+    
+    <asignatura>
+                                
+        
+        
+        <nombre>Lengua</nombre>
+                                
+        
+        
+        <curso>2ESO</curso>
+                                
+        
+        
+        <horas>4</horas>
+                                
+        
+        
+        <profesor>Sra. Pérez</profesor>
+                            
+    
+    
+    </asignatura>
+                
+    
+    
+    <asignatura>
+                                
+        
+        
+        <nombre>Matemáticas</nombre>
+                                
+        
+        
+        <curso>2ESO</curso>
+                                
+        
+        
+        <horas>5</horas>
+                                
+        
+        
+        <profesor>Sr. Gómez</profesor>
+                            
+    
+    
+    </asignatura>
+            
+    
+    
+    <asignatura>
+                        
+        
+        <nombre>Matemáticas</nombre>
+                        
+        
+        <curso>2ESO</curso>
+                        
+        
+        <horas>5</horas>
+                        
+        
+        <profesor>Sr. Gómez</profesor>
+                    
+    
+    </asignatura>
+        
+    
+    <asignatura>
+                
+        <nombre>Matemáticas</nombre>
+                
+        <curso>2ESO</curso>
+                
+        <horas>5</horas>
+                
+        <profesor>Sr. Gómez</profesor>
+            
+    </asignatura>
+    
+    <asignatura>
+        <nombre>Base de datos</nombre>
+        <curso>1DAM</curso>
+        <horas>6</horas>
+        <profesor>Martin Gómez</profesor>
+    </asignatura>
+</asignaturas>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+        
+    <alumno>
+                
+        <nombre>Juan Pérez</nombre>
+                
+        <curso>4ESO</curso>
+                
+        <dni>12345678A</dni>
+                
+        <fechaNacimiento>2009-05-10</fechaNacimiento>
+                
+        <correoPadres>padres@correo.com</correoPadres>
+                
+        <telefonoPadres>600123123</telefonoPadres>
+                
+        <nombrePadre>Carlos Pérez</nombrePadre>
+                
+        <nombreMadre>Laura Vidal</nombreMadre>
+            
+    </alumno>
+        
+    <alumno>
+                
+        <nombre>Mario López</nombre>
+                
+        <curso>2ESO</curso>
+                
+        <dni>123123A</dni>
+                
+        <fechaNacimiento>2010-10-05</fechaNacimiento>
+                
+        <correoPadres>padresmario@correo.com</correoPadres>
+                
+        <telefonoPadres>600111222</telefonoPadres>
+                
+        <nombrePadre>Luis</nombrePadre>
+                
+        <nombreMadre>Sara</nombreMadre>
+            
+    </alumno>
+        
+    <alumno>
+                
+        <nombre>Mario López</nombre>
+                
+        <curso>2ESO</curso>
+                
+        <dni>123123A</dni>
+                
+        <fechaNacimiento>2010-10-05</fechaNacimiento>
+                
+        <correoPadres>padresmario@correo.com</correoPadres>
+                
+        <telefonoPadres>600111222</telefonoPadres>
+                
+        <nombrePadre>Luis</nombrePadre>
+                
+        <nombreMadre>Sara</nombreMadre>
+            
+    </alumno>
+        
+    <alumno>
+                
+        <nombre>Mario López</nombre>
+                
+        <curso>2ESO</curso>
+                
+        <dni>123123A</dni>
+                
+        <fechaNacimiento>2010-10-05</fechaNacimiento>
+                
+        <correoPadres>padresmario@correo.com</correoPadres>
+                
+        <telefonoPadres>600111222</telefonoPadres>
+                
+        <nombrePadre>Luis</nombrePadre>
+                
+        <nombreMadre>Sara</nombreMadre>
+            
+    </alumno>
+        
+    <alumno>
+                
+        <nombre>Mario López</nombre>
+                
+        <curso>1DAM</curso>
+                
+        <dni>12345678L</dni>
+                
+        <fechaNacimiento>2010-10-05</fechaNacimiento>
+                
+        <correoPadres>prueba@correo.com</correoPadres>
+                
+        <telefonoPadres>123456789</telefonoPadres>
+                
+        <nombrePadre>Luis</nombrePadre>
+                
+        <nombreMadre>Sara</nombreMadre>
+            
+    </alumno>
+    
+    <alumno>
+        <nombre>Juan</nombre>
+        <curso>1DAMN</curso>
+        <dni>234567e</dni>
+        <fechaNacimiento>2010-30-40</fechaNacimiento>
+        <correoPadres>fdkfmfd@gmail.com</correoPadres>
+        <telefonoPadres>6464545745</telefonoPadres>
+        <nombrePadre>pepe</nombrePadre>
+        <nombreMadre>sech</nombreMadre>
+    </alumno>
+</alumnos>
